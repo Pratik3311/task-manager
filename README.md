@@ -295,7 +295,7 @@ sequenceDiagram
 ## 📖 Usage
 
 ### 1. User Registration & Login
-1. Open http://localhost:3000
+1. Open http://localhost:5173 or whichever port your frontend is running
 2. Click "Create Account" to register
 3. Fill in username, email, and password
 4. Login with your credentials
