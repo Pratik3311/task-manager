@@ -191,6 +191,4 @@ Click the "Logout" button in the header to log out of the application
 - Backend1 logs: Check console output
 - Backend2 logs: Check console output
 - Frontend logs: Check browser console (F12)
-- 
-
-![Screenshot](assets/Vite + React + TS - Google Chrome 6_13_2025 9_06_46 PM)
+  
