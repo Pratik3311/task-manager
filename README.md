@@ -5,7 +5,7 @@ A complete task management application with user authentication, task CRUD opera
 ## Demo Video Link : https://drive.google.com/file/d/17P9bZNUuqyP92buBqiCJoIYc8dlZNJax/view?usp=sharing
 
 ![Image](https://github.com/user-attachments/assets/58c205ff-1144-4ab8-a2b6-ccf5edd6d256)
-
+![Image](https://github.com/user-attachments/assets/b4249c3c-a5c7-4bfb-91ee-6968c518b927)
 ## Overview
 
 TaskFlow is a full-stack application built with:
