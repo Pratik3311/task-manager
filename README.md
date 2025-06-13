@@ -116,13 +116,13 @@ npx tailwindcss init -p
 npm start
 \`\`\`
 
-The frontend will run on http://localhost:3000
+The frontend will run on http://localhost:5173 or it will show in the terminal
 
 ## Usage Instructions
 
 ### 1. Registration and Login
 
-1. Open http://localhost:3000 in your browser
+1. Open http://localhost:5173 in your browser
 2. Click "Create account" to register a new user
 3. Fill in the registration form with username, email, and password
 4. After registration, you'll be redirected to the login page
