@@ -4,6 +4,7 @@ A complete task management application with user authentication, task CRUD opera
 
 ## Demo Video Link : https://drive.google.com/file/d/17P9bZNUuqyP92buBqiCJoIYc8dlZNJax/view?usp=sharing
 
+![Image](https://github.com/user-attachments/assets/58c205ff-1144-4ab8-a2b6-ccf5edd6d256)
 
 ## Overview
 
